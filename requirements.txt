@@ -1,0 +1,26 @@
+# Core data science
+numpy==1.21.5
+pandas==1.4.4
+scipy==1.9.1
+scikit-learn==1.1.2
+
+# Process mining
+pm4py==2.7.0
+
+# Deep learning
+tensorflow
+tensorflow-gpu
+keras
+
+# Visualization  
+matplotlib==3.5.3
+seaborn==0.11.2
+
+# Jupyter environment
+jupyter
+ipykernel
+notebook
+
+# Utilities
+tqdm
+pickle-mixin
